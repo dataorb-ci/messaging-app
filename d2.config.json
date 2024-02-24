@@ -3,7 +3,7 @@
   "coreApp": true,
   "title": "Messaging Pro",
   "minDHIS2Version": "2.29",
-  "name": "messaging",
+  "name": "messaging-pro",
   "description": "An application for sending internal messages",
   "version": "100.0.36"
 }
