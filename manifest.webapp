@@ -1,8 +1,8 @@
 {
   "app_hub_id": "335eff74-24b5-48db-a5f6-1f488d7847c3",
   "appType": "APP",
-  "short_name": "messaging",
-  "name": "Messaging",
+  "short_name": "messaging-pro",
+  "name": "Messaging Pro",
   "description": "An application for sending internal messages",
   "version": "100.0.36",
   "core_app": true,
